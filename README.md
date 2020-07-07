@@ -26,4 +26,4 @@ npm start
 ```
 
 ### Aqui esta un video que muestra los pasos anteriores, tomando en cuenta que ya se tiene instalado NodeJS
-
+![Alt Recording](https://github.com/brandonvilla21/js-sesion04/blob/master/recording.2020-07-06%2022_52_57.gif)
