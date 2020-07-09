@@ -10,6 +10,19 @@
   <div class="container mt-3 pt-3">
     <h1 class="display-4">Lista de usuarios con deudas</h1>
     <hr />
+
+    <!-- Busqueda  -->
+    <form id="search-form" class="form-inline">
+      <div class="input-group">
+        <div class="input-group-prepend">
+          <span class="input-group-text"><strong>ID</strong></span>
+        </div>
+        <input id="debt-id" type="number" class="form-control">
+      </div>
+      <button type="submit" class="btn btn-primary ml-2">Busqueda</button>
+    </form>
+
+
     <div class="d-flex justify-content-end mb-2">
       <span>Total: <strong id="total-amount">$0</strong></span>
     </div>
